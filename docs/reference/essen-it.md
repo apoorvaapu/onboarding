@@ -35,9 +35,23 @@ An EXT account has these limits.
 
 | Access | Procedure | Notes |
 |---|---|---|
-| UME VPN | Fill in the form in the [ZIT intranet](http://intraweb.uk-essen.de/zit/index.php?id=52) and add your digital signature. Keno adds his signature. Send the form to benutzerantraege@uk-essen.de. | The client is Check Point Endpoint VPN. |
+| UME VPN | Fill in the form in the [ZIT intranet](http://intraweb.uk-essen.de/zit/index.php?id=52) and add your digital signature. Keno adds his signature. Send the form to benutzerantraege@uk-essen.de. | The client is Check Point Endpoint Security VPN. This VPN is different from the Citrix access. To connect, refer to [Connect to the UME VPN on macOS](#connect-to-the-ume-vpn-on-macos). |
 | UME DMZ access | Open a helpdesk ticket. | The DMZ access gives you the "Klinische Applikation". The access stops after one year. To extend it, open a new ticket before this date. To connect to your office computer, send its IP address to dmz.ip@uk-essen.de. The instructions are in Roxtra (document 208360) and in the cloud folder "Lehrvideos". |
 | DKFZ VPN | Install the Cisco Secure Client. Add a connection with the server address `gate.dkfz-heidelberg.de`. Do not change the other settings. Log in with your DKFZ account and the two-factor token. | Only for personnel with a DKFZ contract. Do this procedure yourself. |
+
+### Connect to the UME VPN on macOS
+
+1. Open Check Point Endpoint Security VPN. Select the site `clientvpn.ume.de` and the method "Radius".
+2. If you connect for the first time, click "Enroll". Write the Registration-Token from your ZIT letter.
+3. Select the certificate that agrees with your VPN username.
+4. If the enrollment fails, do the enrollment again. The client then shows your username.
+5. At the `password:` prompt, write your VPN password and then your current one-time code (OTP) in the "Response" field.
+6. Do not use a space or a separator between the password and the OTP. For example, `Example!` and `123456` become `Example!123456`.
+7. Click "Connect".
+
+> The client does not tell you to add the OTP to the password. If you write only the password, the connection fails.
+
+<!-- TODO: Confirm that SSH to the UME servers operates through the Check Point VPN. -->
 
 ### Rules for remote access to UME data
 

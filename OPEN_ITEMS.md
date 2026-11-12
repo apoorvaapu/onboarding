@@ -27,6 +27,7 @@ This file lists the information that the guides do not have yet. When the inform
 | 11 | DKFZ leave and sickness reporting for the department, link to the DKFZ training portal | `reference/employers.md` |
 | 12 | Bahnportal contact. The PhD guide names Nathalie Waibel and Kostenträger 1030000230, a Slack message of 8 Sep 2026 names Kerstin Gschwender and cost centre WT03 | `reference/dkfz-travel.md` |
 | 13 | Whether UDE contracts occur and which processes apply | `reference/employers.md` |
+| 13a | Whether SSH to the UME servers operates through the Check Point VPN, and the hostnames | `reference/essen-it.md` |
 
 ## TUM
 

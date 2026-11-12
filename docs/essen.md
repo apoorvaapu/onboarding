@@ -51,13 +51,13 @@ Register with the city of Essen (Anmeldung) as soon as possible. You must have a
 - Call the office at +49 201 8838883. This is the best option.
 - Use the [appointment website](https://termine.essen.de/?link=4ce9). Usually, the website has no available appointments.
 
-On Monday at 08:00, new appointments can become available on the website. If other persons cancel their appointments, you can also call the office at approximately the same time to get one.
+On Monday at 08:00, new appointments can become available on the website. If other persons cancel their appointments, you can also call the office at about the same time to get one.
 
 ## Bank account
 
 Before the city registration, it is difficult to open a bank account. Only some online banks are available. Revolut does not let you open an account without the registration.
 
-We recommend [Wise](https://wise.com/register), because Wise does not immediately require a tax identification number. To open a Wise account, you must have:
+We recommend [Wise](https://wise.com/register), because Wise does not immediately make a tax identification number necessary. To open a Wise account, you must have:
 
 - Your passport
 - Your visa
@@ -70,7 +70,7 @@ After three months, you must give Wise your tax identification number. If you do
 Before the city registration, it is difficult to get a phone contract. You can get a prepaid plan. For example, you can get a Vodafone prepaid plan fully online, with an eSIM or a physical SIM card:
 
 1. On the Vodafone website, select a [prepaid plan](https://www.vodafone.de/privat/handys-tablets-tarife/prepaid-ohne-vertrag.html). Give all the necessary data. Select a plan during the sign-up.
-2. Verify your identity. Use the [POSTIDENT](https://www.deutschepost.de/de/p/postident.html) app or go to a Deutsche Post office.
+2. Prove your identity. Use the [POSTIDENT](https://www.deutschepost.de/de/p/postident.html) app or go to a Deutsche Post office.
 3. After the verification, Vodafone sends the SIM card by post. If you selected an eSIM, Vodafone sends it by email.
 
 ## Remote access and network
@@ -78,7 +78,7 @@ Before the city registration, it is difficult to get a phone contract. You can g
 | Access | Use | Procedure |
 |---|---|---|
 | DKFZ VPN | DKFZ intranet and services | Do this procedure yourself. Install the Cisco Secure Client. Add a connection with the server address `gate.dkfz-heidelberg.de`. Do not change the other settings. Log in with your DKFZ account and the two-factor token. |
-| UME VPN | UME network from outside the campus | Fill in the form in the [ZIT intranet](http://intraweb.uk-essen.de/zit/index.php?id=52) and add your digital signature. Keno adds his signature. Send it to benutzerantraege@uk-essen.de. The client is Check Point Endpoint VPN. |
+| UME VPN | UME network from outside the campus | Fill in the form in the [ZIT intranet](http://intraweb.uk-essen.de/zit/index.php?id=52) and add your digital signature. Keno adds his signature. Send it to benutzerantraege@uk-essen.de. The client is Check Point Endpoint Security VPN. To connect, refer to [Essen IT](reference/essen-it.md#connect-to-the-ume-vpn-on-macos). |
 | UME DMZ access | Clinical applications from outside the campus | Open a helpdesk ticket. The access stops after one year. To extend it, open a new ticket. The instructions are in Roxtra (document 208360). |
 | WPA01 WLAN | UME network on the campus | Only registered UME devices can connect, one device for each account. Do not connect devices that UME did not give to you. |
 | Stiftungs-WiFi | Internet on the campus, for example to configure eduroam on a new device | Connect to the network. A login is not necessary. |
