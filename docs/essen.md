@@ -48,46 +48,7 @@ Your contract can be with DKFZ, UME or TUM, and it can change, for example from 
 7. Get compute access. Refer to [Compute access](#compute-access).
 8. Complete the mandatory training of your employer.
 
-## City registration
-
-Register with the city of Essen (Anmeldung) as soon as possible. You must have an appointment for the registration. To get an appointment, do one of these:
-
-- Call the office at +49 201 8838883. This is the best option.
-- Use the [appointment website](https://termine.essen.de/?link=4ce9). Usually, the website has no available appointments.
-
-On Monday at 08:00, new appointments can become available on the website. If other persons cancel their appointments, you can also call the office at about the same time to get one.
-
-## Bank account
-
-Before the city registration, it is difficult to open a bank account. Only some online banks are available. Revolut does not let you open an account without the registration.
-
-We recommend [Wise](https://wise.com/register), because Wise does not immediately make a tax identification number necessary. To open a Wise account, you must have:
-
-- Your passport
-- Your visa
-- Evidence of your current residence
-
-After three months, you must give Wise your tax identification number. If you do not, Wise restricts access to your account.
-
-## Phone number
-
-Before the city registration, it is difficult to get a phone contract. You can get a prepaid plan. For example, you can get a Vodafone prepaid plan fully online, with an eSIM or a physical SIM card:
-
-1. On the Vodafone website, select a [prepaid plan](https://www.vodafone.de/privat/handys-tablets-tarife/prepaid-ohne-vertrag.html). Give all the necessary data. Select a plan during the sign-up.
-2. Prove your identity. Use the [POSTIDENT](https://www.deutschepost.de/de/p/postident.html) app or go to a Deutsche Post office.
-3. After the verification, Vodafone sends the SIM card by post. If you selected an eSIM, Vodafone sends it by email.
-
-## Public transport ticket
-
-DKFZ employees can get a subsidised DeutschlandTicket-Job for about 35 EUR per month. For other employers, contact your employer about subsidies. The ticket covers local transport (buses, trams, U-Bahn, S-Bahn) and second-class regional trains throughout Germany, with no additional fare. It does not cover ICE, IC or EC trains.
-
-The [standard fare](https://www.bahn.de/angebot/regio/deutschland-ticket) is 63 EUR per month, or 66.80 EUR from 1 January 2027.
-
-1. Order a DeutschlandTicket-Job in the [RNV customer portal](https://abo.rnv-online.de/job). Use the login details in the [order instructions (PDF, German)](assets/documents/dkfz-job-ticket-order-instructions.pdf).
-2. Complete the [subsidy form (PDF, German)](assets/documents/dkfz-job-ticket-subsidy-form.pdf).
-3. Send the form and order confirmation to jobticket@dkfz.de.
-
-If this information becomes outdated, contact the email address above for current information.
+For city registration, a bank account, a phone number and transport, refer to [Living in Germany](living-in-germany.md).
 
 ## Remote access and network
 
@@ -124,7 +85,7 @@ All group meetings are online in Google Meet, [meet.google.com/hkt-bqxy-rya](htt
 
 | Meeting | Time | Description |
 |---|---|---|
-| Morning sprint | Tuesday and Friday, 09:15 | Short status meeting of the full group, also with short paper presentations. For a presentation, write your name, the paper and the date in the presentation sheet of the [group spreadsheet](https://docs.google.com/spreadsheets/d/1u5qNBF6q5MZqZWaTI2Gbz5txh2EhGKpXm2O2GMob4dI/edit). |
+| Morning sprint | Tuesday to Friday, 09:15 | Short group status meeting (typically Wednesday and Friday) and short paper presentations (typically Tuesday and Thursday). For a presentation, write your name, the paper and the date in the presentation sheet of the [group spreadsheet](https://docs.google.com/spreadsheets/d/1u5qNBF6q5MZqZWaTI2Gbz5txh2EhGKpXm2O2GMob4dI/edit). |
 | Thursday meeting | Every second Thursday from 15 October 2026, 17:15 | Meeting of the full group |
 | 1:1 meeting with Keno | Usually in the morning, until 11:30 | Meetings about your work and your projects |
 
@@ -135,4 +96,5 @@ All group meetings are online in Google Meet, [meet.google.com/hkt-bqxy-rya](htt
 Before you make a reservation or a purchase, speak to Keno about it and about the funding. Do your first Dienstreiseantrag together with Keno. Keno makes all purchases through the purchase system of the employer (DKFZ e.biss).
 
 - With a DKFZ contract, you can use EGYM Wellpass (company fitness). Register in the DKFZ intranet.
+- With a DKFZ contract, you can get a subsidised [public transport ticket](living-in-germany.md#public-transport-ticket).
 - For bike sharing in Essen, use metropolradruhr with the Donkey Republic app (1 EUR for each hour).
