@@ -28,21 +28,25 @@ Your contract can be with DKFZ, UME or TUM, and it can change, for example from 
 | | DKFZ contract | UME contract |
 |---|---|---|
 | HR | Silvia Fuchs | UME Personalbetreuung (Dez. 01.1) |
-| Portal | [Mitarbeiterportal](https://mitarbeiterportal.dkfz-heidelberg.de/), [intranet](https://intranet.dkfz.de/) | [home.ume.de](https://home.ume.de), Roxtra (forms) |
+| Portal | [Mitarbeiterportal](https://mitarbeiterportal.dkfz-heidelberg.de/) (update your address and bank details), [intranet](https://intranet.dkfz.de/) | [home.ume.de](https://home.ume.de), Roxtra (forms) |
 | Business trip | Dienstreiseantrag in the Mitarbeiterportal. Refer to [DKFZ business trips](reference/dkfz-travel.md). | SAP Concur |
-| Mandatory training | DKFZ e-learning (data protection, prevention of corruption, AI competence) | UME Pflichtschulungen in the [Bildungsakademie LMS](https://bildungsakademie-online.ume.de/) |
+| Mandatory training | [DKFZ e-learning](https://pseminar.inet.dkfz-heidelberg.de/) (data protection, prevention of corruption, AI competence) | UME Pflichtschulungen in the [Bildungsakademie LMS](https://bildungsakademie-online.ume.de/) |
 
 ## First weeks
 
 1. Send the [personal information form](forms/personal-information.md) with a photo to Keno. The form is necessary for your staff ID card and your keys.
 2. Activate the account from your employer.
-    - If you have a DKFZ contract, follow the ITCF welcome letter. Change the initial password at [dkfz.de/passwd](https://www.dkfz.de/passwd). Then register the two-factor token.
+    - If you have a DKFZ contract, follow the ITCF welcome letter. Change the initial password at [dkfz.de/passwd](https://www.dkfz.de/passwd). Then register the two-factor token ([instructions, PDF](https://www.dkfz.de/fileadmin/user_upload/Abteilungen/W310/Downloads/Setup_TOTP_en.pdf)).
+
+        > **Note:** You can use the registration code only once. Use it only to set up two-factor authentication. Otherwise, you must contact IT for a new token. After setup, use the codes from your authenticator app for DKFZ services.
+
     - If you have a UME contract, UME makes your user ID and your email address (firstname.lastname@uk-essen.de) with the contract.
 3. Without a UME contract, you must have a UME guest account for clinical data and the UME network. Send Keno the data for the [UME guest account](forms/ume-guest-account.md). Keno sends the official ZIT form.
 4. Tell Keno to add you to the lab Slack (agki.slack.com).
-5. Use the [UDE account form](https://www.uni-due.de/imperia/md/content/zim/services/benutzerverwaltung/antrag_uni_kennung.pdf) to get a UDE account. With this account, you can use Zoom, the university library, eduroam and Microsoft Office.
-6. Get remote access. Refer to the next section.
-7. Complete the mandatory training of your employer.
+5. Use the [UDE account form](https://www.uni-due.de/imperia/md/content/zim/services/benutzerverwaltung/antrag_uni_kennung.pdf) to get a UDE account. Email the completed form to benutzerverwaltung@uni-due.de (cc Keno) for account creation. With this account, you can use Zoom, the university library, eduroam and Microsoft Office.
+6. Get remote access. Refer to [Remote access and network](#remote-access-and-network).
+7. Get compute access. Refer to [Compute access](#compute-access).
+8. Complete the mandatory training of your employer.
 
 ## City registration
 
@@ -73,6 +77,18 @@ Before the city registration, it is difficult to get a phone contract. You can g
 2. Prove your identity. Use the [POSTIDENT](https://www.deutschepost.de/de/p/postident.html) app or go to a Deutsche Post office.
 3. After the verification, Vodafone sends the SIM card by post. If you selected an eSIM, Vodafone sends it by email.
 
+## Public transport ticket
+
+DKFZ employees can get a subsidised DeutschlandTicket-Job for about 35 EUR per month. For other employers, contact your employer about subsidies. The ticket covers local transport (buses, trams, U-Bahn, S-Bahn) and second-class regional trains throughout Germany, with no additional fare. It does not cover ICE, IC or EC trains.
+
+The [standard fare](https://www.bahn.de/angebot/regio/deutschland-ticket) is 63 EUR per month, or 66.80 EUR from 1 January 2027.
+
+1. Order a DeutschlandTicket-Job in the [RNV customer portal](https://abo.rnv-online.de/job). Use the login details in the [order instructions (PDF, German)](assets/documents/dkfz-job-ticket-order-instructions.pdf).
+2. Complete the [subsidy form (PDF, German)](assets/documents/dkfz-job-ticket-subsidy-form.pdf).
+3. Send the form and order confirmation to jobticket@dkfz.de.
+
+If this information becomes outdated, contact the email address above for current information.
+
 ## Remote access and network
 
 | Access | Use | Procedure |
@@ -82,7 +98,7 @@ Before the city registration, it is difficult to get a phone contract. You can g
 | UME DMZ access | Clinical applications from outside the campus | Open a helpdesk ticket. The access stops after one year. To extend it, open a new ticket. The instructions are in Roxtra (document 208360). |
 | WPA01 WLAN | UME network on the campus | Only registered UME devices can connect, one device for each account. Do not connect devices that UME did not give to you. |
 | Stiftungs-WiFi | Internet on the campus, for example to configure eduroam on a new device | Connect to the network. A login is not necessary. |
-| eduroam | Internet on the campus | Use the UDE account. |
+| eduroam | Internet on the campus | Use your UDE or DKFZ account ([DKFZ instructions](https://www.dkfz.de/en/information-technology#c9930)). |
 
 Obey these rules for remote access to UME data. For more information, refer to [Essen IT](reference/essen-it.md).
 
@@ -92,11 +108,15 @@ Obey these rules for remote access to UME data. For more information, refer to [
 - Do not give your password to other persons.
 - If a security problem occurs, tell ZIT immediately.
 
+## Compute access
+
+For DKFZ cluster access, email cluster-support@dkfz-heidelberg.de with your DKFZ username. Ask for GPU access, as the default is CPU access only. Default GPU access includes only low-end GPUs. [Cluster wiki](https://wiki.odcf.dkfz.de/pub/cluster/start).
+
+<!-- TODO: compute resources in Essen (IKIM cluster, DGX B300), storage, code hosting. -->
+
 ## Data access
 
 For UME patient data, you must have an approved ethics application ([Ethikpool Essen](https://www.ethikpool-essen.de/info)) and a clinical partner. The clinical partner is from the department that made the data. When you have the approval, use the [SHIP permission form](https://ship.ume.de/app/permission-request/index) to get SHIP/FHIR access for the project. Contracts and data transfer agreements must have the signature of the UME legal office (Stabsstelle Recht). Speak to Keno about each new project before you start it.
-
-<!-- TODO: compute resources in Essen (IKIM cluster, DGX B300), storage, code hosting. -->
 
 ## Meetings
 
