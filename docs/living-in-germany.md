@@ -33,6 +33,8 @@ Before the city registration, it is difficult to get a phone contract. You can g
 2. Prove your identity. Use the [POSTIDENT](https://www.deutschepost.de/de/p/postident.html) app or go to a Deutsche Post office.
 3. After the verification, Vodafone sends the SIM card by post. If you selected an eSIM, Vodafone sends it by email.
 
+Alternatively, some providers offer contracts before city registration, with an address and passport verification. These can cost less than prepaid plans and be simpler to set up than Vodafone's verification process. For temporary use, select a contract that you can cancel each month. For example, [Spusu](https://www.spusu.de/) offers flexible, low-cost contracts with a simple online sign-up.
+
 ## Public transport ticket
 
 DKFZ employees can get a subsidised DeutschlandTicket-Job for about 35 EUR per month. For other employers, contact your employer about subsidies. The ticket covers local transport (buses, trams, U-Bahn, S-Bahn) and second-class regional trains throughout Germany, with no additional fare. It does not cover ICE, IC or EC trains.
