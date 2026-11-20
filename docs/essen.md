@@ -71,7 +71,7 @@ Obey these rules for remote access to UME data. For more information, refer to [
 
 ## Compute access
 
-For DKFZ cluster access, email cluster-support@dkfz-heidelberg.de with your DKFZ username. Ask for GPU access, as the default is CPU access only. In the same email, ask them to make folders for you in the OE0709 group folder. Default GPU access includes only low-end GPUs. [Cluster wiki](https://wiki.odcf.dkfz.de/pub/cluster/start).
+For DKFZ cluster access, email cluster-support@dkfz-heidelberg.de with your DKFZ username. Ask for GPU access, as the default is CPU access only. In the same email, ask them to make a folder for you in the OE0709 group folders. Default GPU access includes only low-end GPUs. [Cluster wiki](https://wiki.odcf.dkfz.de/pub/cluster/start).
 
 <!-- TODO: compute resources in Essen (IKIM cluster, DGX B300), storage, code hosting. -->
 
